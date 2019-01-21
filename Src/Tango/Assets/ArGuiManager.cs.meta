@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 26bd9fc9f0621284d9112f1c563f3251
+timeCreated: 1481531225
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_prefabMarker: {instanceID: 0}
+  - m_prefabTouchEffect: {instanceID: 0}
+  - m_canvas: {instanceID: 0}
+  - m_pointCloud: {instanceID: 0}
+  - fileIcon: {instanceID: 0}
+  - folderIcon: {instanceID: 0}
+  - backIcon: {instanceID: 0}
+  - driveIcon: {instanceID: 0}
+  - material: {fileID: 2100000, guid: 4c24d11cd643746fa992dc4220692a5f, type: 2}
+  - shader: {fileID: 4800000, guid: 29d18c3d6b80c6941b66e2d556817f63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
