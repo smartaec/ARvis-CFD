@@ -2,6 +2,7 @@
 This repo contains source code and testing data for the paper entitled "Improved Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics"
 
 Use the following data to reference this repo or the paper:
+
 Lin, J., Cao, J., Zhang, J., van Treeck, C., and Frisch, J., Improved Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics. Automation in Construction, 2019. (submitted)
 
 ## Background and Objectives
