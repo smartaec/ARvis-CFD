@@ -24,7 +24,10 @@ Comparing to the widely used vtk format, a data compression ratio of 63.4% and a
 Standard RESTful API and widely used Unity3D engine are adopted, thus enabiling further extension to support other AR devices.
 
 ## Folder Structure
-Bin: output folder for complied binary files and runnable applications
+Bin: output folder for complied binary files and runnable applications.
+
 Data: test data of an office room, scan folder for surface model generated from point cloud, section folder for different section views, and streamline folder for streamline represented air flows. Ending number of the file names are the simulation time-steps.
+
 Documentation: collected documents to understand vtk files and paraview.
+
 Src: source code folder, CfdHost for server-side service, Tango for client implementation, and VtkToolkit for data pre-processing.
