@@ -1,5 +1,5 @@
 # ARvis-CFD
-This repo contains source code and testing data for our paper entitled "Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics"
+This repo contains source code and testing data for our paper entitled "Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics" [Link to the published version](https://www.sciencedirect.com/science/article/pii/S0926580518305922)
 
 Use the following data to reference this repo or the paper:
 
