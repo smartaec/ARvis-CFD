@@ -1,9 +1,9 @@
 # ARvis-CFD
-This repo contains source code and testing data for the paper entitled "Improved Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics"
+This repo contains source code and testing data for our paper entitled "Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics"
 
 Use the following data to reference this repo or the paper:
 
-Lin, J.-R., Cao, J., Zhang, J.-P., van Treeck, C., and Frisch, J., Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics. Automation in Construction, 2019. (accepted)
+Lin, J.-R.\*, Cao, J., Zhang, J.-P., van Treeck, C., and Frisch, J. (2019), Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics. Automation in Construction, 103: 26-40. doi: 10.1016/j.autcon.2019.02.007.
 
 ## Background and Objectives
 Augmented reality (AR) based visualization of computational fluid dynamics (CFD) simulation on mobile devices is important for the understanding and discussion of indoor thermal environments in the design process. However, utilizing AR-based mobile device for indoor thermal environment understanding still encounters problems due to limited computational power and lack of efficient interaction methods. 
